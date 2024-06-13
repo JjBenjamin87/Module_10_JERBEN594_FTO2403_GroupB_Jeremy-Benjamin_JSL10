@@ -1,3 +1,7 @@
+JSL10 Loom Video Link: [https://www.loom.com/share/eafc720592434c309c30c1c647c55edf?sid=f4ff0344-7701-428d-908d-60e091a2d094]
+
+
+
 # [JSL10] Submission: Escaping Vanilla JS: Abstraction Challenge
 
 You will:
@@ -40,7 +44,3 @@ The Escape Vanilla JS Challenge is an interactive web-based project focusing on 
 1. We will review your GitHub repository to ensure that it contains the updated code files.
 2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
 3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-
-
-
